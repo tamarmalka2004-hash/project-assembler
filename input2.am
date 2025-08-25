@@ -1,0 +1,4 @@
+
+MAIN: mov r2, r3
+    mov r1, r2
+
